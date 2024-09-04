@@ -1,2 +1,3 @@
 # -Jobsheet2-ilham14
-Repositoriku yang pertama
+
+Hello GitHub, ini adalah repositori pertamaku
